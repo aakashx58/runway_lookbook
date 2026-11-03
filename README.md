@@ -2,6 +2,9 @@
 
 A single-file, full-viewport fashion page. Six models stand in one line that recedes into a blurred distance; drag, scroll or press the arrow keys to walk the line forward. The product rail and look number follow. It loops forever.
 
+<img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/0608fb8d-5a3f-47a8-a4c0-9a44ddbdc003" />
+
+
 ## Run
 
 Open `index.html` in a browser. No build step, no libraries. It needs a network connection for the Google Fonts and the two image sheets.
